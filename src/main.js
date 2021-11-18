@@ -6,8 +6,6 @@ import store from './store'
 import "./assets/app"
 // 引入样式重置文件
 import "./assets/reset.css"
-// import Swiper from 'swiper';
-import 'swiper/swiper-bundle.css'
 
 Vue.config.productionTip = false
 
